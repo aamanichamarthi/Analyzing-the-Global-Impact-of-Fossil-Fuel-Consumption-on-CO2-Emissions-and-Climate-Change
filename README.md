@@ -1,20 +1,25 @@
 # Analyzing-the-Global-Impact-of-Fossil-Fuel-Consumption-on-CO2-Emissions-and-Climate-Change
 
-This project explores the relationship between
-fossil fuel consumption, CO2 emissions, and climate change
-through the lens of data visualization. Subsequently, from
-using Tableau, a set of dynamic dashboards were created
-for energy trends of the world, the move towards the
-use of renewable energy, and focusing on the urgency
-of decarbonization. According to the principles of the
-Utilitarian ethical theory, the analysis promotes the development of renewable energy sources for the benefit of the
-general population and reduction of the negative impact of
-climate change. It also discredits typical arguments contrary to
-renewables, like the expensive nature of renewable energy
-and their innate variability, with examples of renewable
-technological progress and potential business possibilities
-in clean energy industries. In conclusion, the evidence
-supports the imperative of moving to a sustainable energy
-future and demonstrates the importance of data studies
-in combination with accurate envisioning to make global
-changes
+# 🌍 Fossil Fuel Consumption Dashboard (Tableau)
+
+This repository contains a Tableau visualization project that explores **global fossil fuel consumption trends**. The dashboard provides insightful, interactive views into how coal, oil, natural gas, and other fossil fuels have been consumed over time across different countries and regions.
+
+---
+
+## 📊 Dashboard Highlights
+
+Key features of the Tableau dashboard include:
+
+- 📈 **Year-wise Trends**: Visual representation of how fossil fuel consumption has changed over the years.
+- 🌐 **Regional Insights**: Comparative analysis between countries/continents to observe energy usage patterns.
+- ⚡ **Fuel Type Breakdown**: Insights on the share of coal, oil, natural gas, etc., in total energy consumption.
+- 🔎 **Interactive Filters**: Enables users to filter the view by year, fuel type, or region for customized analysis.
+- 📌 **Data-Driven Storytelling**: Enables policy makers, researchers, and the public to understand the implications of fossil fuel usage.
+
+---
+## 🛠️ Tools Used
+
+- **Tableau Desktop/Public**: Interactive data visualization and dashboard creation.
+- **Data Source**: Embedded within the `.twbx` Tableau workbook.
+
+---
